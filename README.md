@@ -18,8 +18,16 @@
 </p>
 <h3>Проект, над которым я работаю сейчас:</h3>
 <p>
+<table>
+<tr>
+<td>
 <a href = "https://github.com/adrasti/ecommerce">E-commerce вебсайт</a>
-с использованием Vue.js
+</td>
+<td>
+<img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&color=1f1f1f&logo=vuedotjs&logoColor=4FC08D">
+</td>
+</tr>
+</table>
 </p>
 <h3>Проекты, которые я планирую создать в будущем, и некоторые технологии, которые я планирую освоить и использовать для их создания:</h3>
 <ul>
