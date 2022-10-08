@@ -29,6 +29,12 @@
 <td>
 <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&color=1f1f1f&logo=vuedotjs&logoColor=4FC08D">
 </td>
+<td>
+<img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&&color=1f1f1f&logo=typescript&logoColor=blue">
+</td>
+<td>
+<img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+</td>
 </tr>
 </table>
 </p>
