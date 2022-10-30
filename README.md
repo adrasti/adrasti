@@ -10,7 +10,7 @@
 <img src = "https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=1f1f1f&logo=github">
 <img src = "https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&color=1f1f1f&logo=webpack&amp">
 <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&color=1f1f1f&logo=visual-studio-code&logoColor=0078d7">
-<img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+<img src = "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&color=1f1f1f&logo=django&logoColor=white">
 <img src = "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&&color=1f1f1f&logo=typescript&logoColor=blue">
 <img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&color=1f1f1f&logo=vuedotjs&logoColor=4FC08D">
 </p>
